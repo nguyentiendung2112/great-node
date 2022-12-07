@@ -1,1 +1,1 @@
-# great-node
+# Great Node
